@@ -1,2 +1,2 @@
-# encryption_algo_using_graph_datastructure
-This repo Contains an encryption an decryption algorithm built using Graph Data Structure
+## Encryption Algorithm using Graph Data Structure
+This repo Contains an encryption and decryption algorithm built using Graph Data Structure.
