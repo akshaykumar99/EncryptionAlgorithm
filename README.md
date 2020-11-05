@@ -1,5 +1,5 @@
 ## Encryption Algorithm using Graph Data Structure
-This repo Contains an encryption and decryption algorithm built using Graph Data Structure.
+This repo Contains an encryption and decryption algorithm and has built using Graph Data Structure.
 
 * Open the files encrypt_text.ipynb and decrypt_text.ipynb.
 * Enter the message that you want to send in input.txt file.
